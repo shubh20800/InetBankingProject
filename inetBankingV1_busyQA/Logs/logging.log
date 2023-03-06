@@ -1,0 +1,205 @@
+2022-05-25 09:42:45 INFO  ebanking:18 - Entered username
+  2022-05-25 09:42:45 INFO  ebanking:21 - Entered password
+  2022-05-25 09:42:46 INFO  ebanking:24 - logged in successfully !!
+  2022-05-25 09:42:46 INFO  ebanking:29 - Login test passed
+  2022-05-29 17:43:06 INFO  ebanking:18 - Entered username
+  2022-05-29 17:43:06 INFO  ebanking:21 - Entered password
+  2022-05-29 17:43:06 INFO  ebanking:24 - Logged in successfully !!
+  2022-05-29 17:45:33 INFO  ebanking:18 - Entered username
+  2022-05-29 17:45:33 INFO  ebanking:21 - Entered password
+  2022-05-29 17:45:34 INFO  ebanking:24 - Logged in successfully !!
+  2022-05-29 17:45:34 INFO  ebanking:29 - Login test passed !!!
+  2022-05-29 17:47:54 INFO  ebanking:18 - Entered username
+  2022-05-29 17:47:54 INFO  ebanking:21 - Entered password
+  2022-05-29 17:47:56 INFO  ebanking:24 - Logged in successfully !!
+  2022-05-29 17:47:56 INFO  ebanking:29 - Login test passed !!!
+  2022-05-29 17:52:22 INFO  ebanking:18 - Entered username
+  2022-05-29 17:52:22 INFO  ebanking:21 - Entered password
+  2022-05-29 17:52:24 INFO  ebanking:24 - Logged in successfully !!
+  2022-05-29 17:52:24 INFO  ebanking:29 - Login test passed !!!
+  2022-05-29 17:52:51 INFO  ebanking:18 - Entered username
+  2022-05-29 17:52:51 INFO  ebanking:21 - Entered password
+  2022-05-29 17:52:52 INFO  ebanking:24 - Logged in successfully !!
+  2022-05-29 17:52:52 INFO  ebanking:29 - Login test passed !!!
+  2022-05-29 17:56:05 INFO  ebanking:18 - Entered username
+  2022-05-29 17:56:05 INFO  ebanking:21 - Entered password
+  2022-05-29 17:56:07 INFO  ebanking:24 - Logged in successfully !!
+  2022-05-29 17:56:07 INFO  ebanking:29 - Login test passed !!!
+  2022-05-29 17:57:19 INFO  ebanking:18 - Entered username
+  2022-05-29 17:57:19 INFO  ebanking:21 - Entered password
+  2022-05-29 17:57:21 INFO  ebanking:24 - Logged in successfully !!
+  2022-05-29 17:57:21 INFO  ebanking:29 - Login test passed !!!
+  2022-05-29 18:25:39 INFO  ebanking:18 - Entered username
+  2022-05-29 18:25:39 INFO  ebanking:21 - Entered password
+  2022-05-29 18:25:40 INFO  ebanking:24 - Logged in successfully !!
+  2022-05-29 18:25:40 INFO  ebanking:29 - Login test passed !!!
+  2022-05-29 18:42:40 INFO  ebanking:18 - Entered username
+  2022-05-29 18:42:40 INFO  ebanking:21 - Entered password
+  2022-05-29 18:42:42 INFO  ebanking:24 - Logged in successfully !!
+  2022-05-29 18:42:42 INFO  ebanking:29 - Login test passed !!!
+  2022-06-04 12:28:57 INFO  ebanking:18 - Entered username
+  2022-06-04 12:28:57 INFO  ebanking:21 - Entered password
+  2022-06-04 12:28:58 INFO  ebanking:24 - Logged in successfully !!
+  2022-06-04 12:28:58 INFO  ebanking:29 - Login test passed !!!
+  2022-06-11 17:05:28 INFO  ebanking:18 - Entered username
+  2022-06-11 17:05:28 INFO  ebanking:21 - Entered password
+  2022-06-11 17:05:29 INFO  ebanking:24 - Logged in successfully !!
+  2022-06-11 17:05:29 INFO  ebanking:29 - Login test passed !!!
+  2022-06-11 23:01:10 INFO  ebanking:20 - Entered username
+  2022-06-11 23:01:10 INFO  ebanking:23 - Entered password
+  2022-06-11 23:01:12 INFO  ebanking:26 - Logged in successfully !!
+  2022-06-11 23:03:19 INFO  ebanking:20 - Entered username
+  2022-06-11 23:03:19 INFO  ebanking:23 - Entered password
+  2022-06-11 23:03:20 INFO  ebanking:26 - Logged in successfully !!
+  2022-06-11 23:09:57 INFO  ebanking:20 - Entered username
+  2022-06-11 23:09:57 INFO  ebanking:23 - Entered password
+  2022-06-11 23:09:59 INFO  ebanking:26 - Logged in successfully !!
+  2022-06-12 23:24:33 INFO  ebanking:36 - Login passed
+  2022-06-12 23:24:53 INFO  ebanking:36 - Login passed
+  2022-06-13 00:06:54 INFO  ebanking:20 - Username is provided
+  2022-06-13 00:06:54 INFO  ebanking:22 - Password is provided
+  2022-06-13 00:06:59 INFO  ebanking:30 - Adding customer details....
+  2022-06-13 00:07:11 INFO  ebanking:51 - Validation started...
+  2022-06-13 00:07:11 INFO  ebanking:58 - Testcase is passed...
+  2022-06-13 23:27:43 INFO  ebanking:20 - Username is provided
+  2022-06-13 23:27:43 INFO  ebanking:22 - Password is provided
+  2022-06-13 23:27:49 INFO  ebanking:30 - Adding customer details....
+  2022-06-13 23:28:01 INFO  ebanking:51 - Validation started...
+  2022-06-13 23:28:01 INFO  ebanking:58 - Testcase is passed...
+  2022-06-18 17:10:35 INFO  ebanking:20 - Username is provided
+  2022-06-18 17:10:35 INFO  ebanking:22 - Password is provided
+  2022-06-18 17:10:41 INFO  ebanking:30 - Adding customer details....
+  2022-06-18 17:10:53 INFO  ebanking:51 - Validation started...
+  2022-06-18 17:10:53 INFO  ebanking:58 - Testcase is passed...
+  2022-06-18 17:12:38 INFO  ebanking:20 - Entered username
+  2022-06-18 17:12:38 INFO  ebanking:23 - Entered password
+  2022-06-18 17:12:41 INFO  ebanking:26 - Logged in successfully !!
+  2022-06-18 17:12:52 INFO  ebanking:36 - Login passed
+  2022-06-18 17:13:14 INFO  ebanking:36 - Login passed
+  2022-06-18 17:13:29 INFO  ebanking:20 - Username is provided
+  2022-06-18 17:13:29 INFO  ebanking:22 - Password is provided
+  2022-06-18 17:13:35 INFO  ebanking:30 - Adding customer details....
+  2022-06-18 17:13:48 INFO  ebanking:51 - Validation started...
+  2022-06-18 17:13:48 INFO  ebanking:58 - Testcase is passed...
+  2022-06-18 17:32:07 INFO  ebanking:20 - Entered username
+  2022-06-18 17:32:07 INFO  ebanking:23 - Entered password
+  2022-06-18 17:32:10 INFO  ebanking:26 - Logged in successfully !!
+  2022-06-18 17:32:20 INFO  ebanking:36 - Login passed
+  2022-06-18 17:32:41 INFO  ebanking:36 - Login passed
+  2022-06-18 17:32:56 INFO  ebanking:20 - Username is provided
+  2022-06-18 17:32:56 INFO  ebanking:22 - Password is provided
+  2022-06-18 17:33:00 INFO  ebanking:30 - Adding customer details....
+  2022-06-18 17:45:34 INFO  ebanking:20 - Entered username
+  2022-06-18 17:45:34 INFO  ebanking:23 - Entered password
+  2022-06-18 17:45:37 INFO  ebanking:26 - Logged in successfully !!
+  2022-06-18 17:45:48 INFO  ebanking:36 - Login passed
+  2022-06-18 17:46:09 INFO  ebanking:36 - Login passed
+  2022-06-18 17:46:24 INFO  ebanking:20 - Username is provided
+  2022-06-18 17:46:24 INFO  ebanking:22 - Password is provided
+  2022-06-18 17:46:29 INFO  ebanking:30 - Adding customer details....
+  2022-06-18 17:46:41 INFO  ebanking:51 - Validation started...
+  2022-06-18 17:46:41 INFO  ebanking:58 - Testcase is passed...
+  2022-06-18 17:47:37 INFO  ebanking:20 - Entered username
+  2022-06-18 17:47:37 INFO  ebanking:23 - Entered password
+  2022-06-18 17:47:40 INFO  ebanking:26 - Logged in successfully !!
+  2022-06-18 17:47:50 INFO  ebanking:36 - Login passed
+  2022-06-18 17:48:10 INFO  ebanking:36 - Login passed
+  2022-06-18 17:48:26 INFO  ebanking:20 - Username is provided
+  2022-06-18 17:48:26 INFO  ebanking:22 - Password is provided
+  2022-06-18 17:48:31 INFO  ebanking:30 - Adding customer details....
+  2022-06-18 17:48:44 INFO  ebanking:51 - Validation started...
+  2022-06-18 17:48:44 INFO  ebanking:58 - Testcase is passed...
+  2022-06-18 17:57:41 INFO  ebanking:20 - Entered username
+  2022-06-18 17:57:41 INFO  ebanking:23 - Entered password
+  2022-06-18 17:57:43 INFO  ebanking:26 - Logged in successfully !!
+  2022-06-18 17:57:55 INFO  ebanking:38 - Login passed
+  2022-06-18 17:58:17 INFO  ebanking:38 - Login passed
+  2022-06-18 17:58:32 INFO  ebanking:20 - Username is provided
+  2022-06-18 17:58:32 INFO  ebanking:22 - Password is provided
+  2022-06-18 17:58:38 INFO  ebanking:30 - Adding customer details....
+  2022-06-18 17:58:52 INFO  ebanking:51 - Validation started...
+  2022-06-18 17:58:52 INFO  ebanking:58 - Testcase is passed...
+  2022-06-18 17:59:35 INFO  ebanking:20 - Entered username
+  2022-06-18 17:59:36 INFO  ebanking:23 - Entered password
+  2022-06-18 18:00:12 INFO  ebanking:26 - Logged in successfully !!
+  2022-06-18 18:01:04 INFO  ebanking:20 - Entered username
+  2022-06-18 18:01:04 INFO  ebanking:23 - Entered password
+  2022-06-18 18:01:08 INFO  ebanking:26 - Logged in successfully !!
+  2022-06-18 18:01:20 INFO  ebanking:38 - Login passed
+  2022-06-18 18:01:43 INFO  ebanking:38 - Login passed
+  2022-06-18 18:01:59 INFO  ebanking:20 - Username is provided
+  2022-06-18 18:02:00 INFO  ebanking:22 - Password is provided
+  2022-06-18 18:02:05 INFO  ebanking:30 - Adding customer details....
+  2022-06-18 18:10:06 INFO  ebanking:20 - Entered username
+  2022-06-18 18:10:07 INFO  ebanking:23 - Entered password
+  2022-06-18 18:10:09 INFO  ebanking:26 - Logged in successfully !!
+  2022-06-18 18:10:25 INFO  ebanking:38 - Login passed
+  2022-06-18 18:10:47 INFO  ebanking:38 - Login passed
+  2022-06-18 18:11:02 INFO  ebanking:20 - Username is provided
+  2022-06-18 18:11:02 INFO  ebanking:22 - Password is provided
+  2022-06-18 18:11:09 INFO  ebanking:30 - Adding customer details....
+  2022-06-18 18:11:21 INFO  ebanking:51 - Validation started...
+  2022-06-18 18:11:21 INFO  ebanking:58 - Testcase is passed...
+  2022-06-18 18:14:46 INFO  ebanking:20 - Entered username
+  2022-06-18 18:14:46 INFO  ebanking:23 - Entered password
+  2022-06-18 18:17:13 INFO  ebanking:20 - Entered username
+  2022-06-18 18:17:13 INFO  ebanking:23 - Entered password
+  2022-06-18 18:17:16 INFO  ebanking:26 - Logged in successfully !!
+  2022-06-18 18:17:28 INFO  ebanking:38 - Login passed
+  2022-06-18 18:17:50 INFO  ebanking:38 - Login passed
+  2022-06-18 18:18:04 INFO  ebanking:20 - Username is provided
+  2022-06-18 18:18:04 INFO  ebanking:22 - Password is provided
+  2022-06-18 18:18:10 INFO  ebanking:30 - Adding customer details....
+  2022-06-18 18:52:08 INFO  ebanking:20 - Entered username
+  2022-06-18 18:52:08 INFO  ebanking:23 - Entered password
+  2022-06-18 18:52:11 INFO  ebanking:26 - Logged in successfully !!
+  2022-06-18 18:52:23 INFO  ebanking:38 - Login passed
+  2022-06-18 18:52:44 INFO  ebanking:38 - Login passed
+  2022-06-18 18:52:57 INFO  ebanking:20 - Username is provided
+  2022-06-18 18:52:57 INFO  ebanking:22 - Password is provided
+  2022-06-18 18:53:03 INFO  ebanking:30 - Adding customer details....
+  2022-06-18 18:53:16 INFO  ebanking:51 - Validation started...
+  2022-06-18 18:53:16 INFO  ebanking:58 - Testcase is passed...
+  2022-06-18 19:11:10 INFO  ebanking:20 - Entered username
+  2022-06-18 19:11:11 INFO  ebanking:23 - Entered password
+  2022-06-18 19:11:14 INFO  ebanking:26 - Logged in successfully !!
+  2022-06-18 19:11:25 INFO  ebanking:38 - Login passed
+  2022-06-18 19:11:48 INFO  ebanking:38 - Login passed
+  2022-06-18 19:12:03 INFO  ebanking:20 - Username is provided
+  2022-06-18 19:12:03 INFO  ebanking:22 - Password is provided
+  2022-06-18 19:12:09 INFO  ebanking:30 - Adding customer details....
+  2022-06-18 22:42:03 INFO  ebanking:20 - Entered username
+  2022-06-18 22:42:03 INFO  ebanking:23 - Entered password
+  2022-06-18 22:42:06 INFO  ebanking:26 - Logged in successfully !!
+  2022-06-18 22:44:37 INFO  ebanking:20 - Username is provided
+  2022-06-18 22:44:37 INFO  ebanking:22 - Password is provided
+  2022-06-18 22:44:42 INFO  ebanking:30 - Adding customer details....
+  2022-06-18 22:44:53 INFO  ebanking:51 - Validation started...
+  2022-06-18 22:47:07 INFO  ebanking:20 - Username is provided
+  2022-06-18 22:47:08 INFO  ebanking:22 - Password is provided
+  2022-06-18 22:47:13 INFO  ebanking:30 - Adding customer details....
+  2022-06-18 22:47:24 INFO  ebanking:51 - Validation started...
+  2022-06-18 22:47:51 INFO  ebanking:20 - Username is provided
+  2022-06-18 22:47:51 INFO  ebanking:22 - Password is provided
+  2022-06-18 22:47:57 INFO  ebanking:30 - Adding customer details....
+  2022-06-18 22:48:10 INFO  ebanking:51 - Validation started...
+  2022-06-18 22:49:09 INFO  ebanking:20 - Username is provided
+  2022-06-18 22:49:10 INFO  ebanking:22 - Password is provided
+  2022-06-18 22:49:16 INFO  ebanking:30 - Adding customer details....
+  2022-06-18 22:49:27 INFO  ebanking:51 - Validation started...
+  2022-06-18 22:49:27 INFO  ebanking:58 - Testcase is passed...
+  2022-06-18 23:21:41 INFO  ebanking:20 - Username is provided
+  2022-06-18 23:21:41 INFO  ebanking:22 - Password is provided
+  2022-06-18 23:21:47 INFO  ebanking:30 - Adding customer details....
+  2022-06-18 23:22:06 INFO  ebanking:51 - Validation started...
+  2022-06-18 23:22:06 INFO  ebanking:58 - Testcase is passed...
+  2022-06-18 23:23:53 INFO  ebanking:20 - Username is provided
+  2022-06-18 23:23:54 INFO  ebanking:22 - Password is provided
+  2022-06-18 23:23:59 INFO  ebanking:30 - Adding customer details....
+  2022-06-18 23:24:11 INFO  ebanking:51 - Validation started...
+  2022-06-18 23:24:11 INFO  ebanking:58 - Testcase is passed...
+  2023-01-26 23:49:54 INFO  inetbanking:20 - Username is provided
+  2023-01-26 23:49:54 INFO  inetbanking:22 - Password is provided
+  2023-01-27 01:12:27 INFO  inetbanking:20 - Username is provided
+  2023-01-27 01:12:27 INFO  inetbanking:22 - Password is provided
+  
