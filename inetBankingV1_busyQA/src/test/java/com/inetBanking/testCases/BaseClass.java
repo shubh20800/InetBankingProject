@@ -34,6 +34,9 @@ public class BaseClass {
 	public Logger logger;
 	
 	
+	///BASE CLASS COMMENTS /////
+	
+	
 	@SuppressWarnings("deprecation")
 	@Parameters("browser")
 	@BeforeClass
