@@ -12,6 +12,8 @@ import com.inetBanking.utilities.XLUtils;
 public class TC_LoginDDT_002 extends BaseClass {
 
 	
+	////NEW COMMENTS IN TC02 for GIT  /////
+	
 	@Test (dataProvider="LoginData")
 	public void loginDDT(String user, String pwd) throws IOException, InterruptedException {
 		
